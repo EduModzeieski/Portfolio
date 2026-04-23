@@ -263,3 +263,6 @@ Passos:
 - uso correto de semântica HTML
 - responsividade melhor trabalhada
 - código limpo e identado
+
+<img width="1883" height="910" alt="image" src="https://github.com/user-attachments/assets/066655ab-113e-4282-9eea-7611c58b1ba3" />
+
