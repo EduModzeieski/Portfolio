@@ -266,3 +266,5 @@ Passos:
 
 <img width="1883" height="910" alt="image" src="https://github.com/user-attachments/assets/066655ab-113e-4282-9eea-7611c58b1ba3" />
 
+Link do GitHub Pages: https://edumodzeieski.github.io/Portfolio/
+
